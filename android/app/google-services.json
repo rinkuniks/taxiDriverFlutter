@@ -1,0 +1,223 @@
+{
+  "project_info": {
+    "project_number": "527655586905",
+    "firebase_url": "https://rover-taxi.firebaseio.com",
+    "project_id": "rover-taxi",
+    "storage_bucket": "rover-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655586905:android:ef671fd547c8f76b787548",
+        "android_client_info": {
+          "package_name": "com.example.rovertaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXaltUAEava1o1wwnui9AvAAU-jLqKZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527655586905-obk695ueclo7p9tp45ldpi1a1ilmjdev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vinove.com.RoverTaxiUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655586905:android:6f50bfc77259bd29787548",
+        "android_client_info": {
+          "package_name": "com.rover.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXaltUAEava1o1wwnui9AvAAU-jLqKZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527655586905-obk695ueclo7p9tp45ldpi1a1ilmjdev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vinove.com.RoverTaxiUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655586905:android:65ce6d7a008af93f787548",
+        "android_client_info": {
+          "package_name": "com.rover.taxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXaltUAEava1o1wwnui9AvAAU-jLqKZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527655586905-obk695ueclo7p9tp45ldpi1a1ilmjdev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vinove.com.RoverTaxiUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655586905:android:da2dc6ef33c7d621",
+        "android_client_info": {
+          "package_name": "com.taxiapp.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655586905-4fekciqsjcqek1b8btheuhmnan4pdiug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxiapp.customer",
+            "certificate_hash": "8b130b9590a2fc83de9228946600ced1a2e31430"
+          }
+        },
+        {
+          "client_id": "527655586905-7vqtj5sep7761osd4pjm30flmed6f5h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxiapp.customer",
+            "certificate_hash": "f7af66811002083ec68d034c8f2d42df3c1f2b8d"
+          }
+        },
+        {
+          "client_id": "527655586905-m5kqm8oe3sph4rlk8fv554h1sdeu8h5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxiapp.customer",
+            "certificate_hash": "99c59c306cfd847509d78232261742e2df95b87d"
+          }
+        },
+        {
+          "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXaltUAEava1o1wwnui9AvAAU-jLqKZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527655586905-obk695ueclo7p9tp45ldpi1a1ilmjdev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vinove.com.RoverTaxiUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527655586905:android:bc4041fd4344d39b",
+        "android_client_info": {
+          "package_name": "com.taxiapp.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527655586905-inb3ln4i7004p75dl980na34vuqrt4g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxiapp.driver",
+            "certificate_hash": "99c59c306cfd847509d78232261742e2df95b87d"
+          }
+        },
+        {
+          "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXaltUAEava1o1wwnui9AvAAU-jLqKZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527655586905-922rhvk9jljjhj53tjrnq5234g2v4obe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527655586905-obk695ueclo7p9tp45ldpi1a1ilmjdev.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vinove.com.RoverTaxiUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
